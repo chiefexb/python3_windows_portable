@@ -1,0 +1,1 @@
+python C:\Users\SBT-Shilo-AV\pypy\django\bin\django-admin.py %1 %2
